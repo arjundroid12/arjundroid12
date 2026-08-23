@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:151312,100:F46C38&text=Arjun%20Vashishtha&fontColor=ffffff&fontSize=46&fontAlignY=42&desc=Data%20Analyst%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20Statistics%20%C2%B7%20ML&descSize=17&descAlignY=60" width="100%" alt="Arjun Vashishtha — Data Analyst" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=21&pause=1200&color=F46C38&center=true&vCenter=true&width=680&lines=I+clean%2C+profile+and+test+data+until+it+tells+the+truth.;Python+%2B+pandas+for+analysis%2C+SciPy+for+statistical+rigour.;Findings+that+survive+a+hypothesis+test%2C+not+just+a+chart." alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=21&pause=1200&color=F46C38&center=true&vCenter=true&width=680&lines=I+turn+messy%2C+real-world+data+into+decisions.;Python+and+pandas+for+the+analysis%2C+SciPy+for+the+rigour.;Findings+that+survive+a+hypothesis+test%2C+not+just+a+chart." alt="What I do" />
 
 <br><br>
 
