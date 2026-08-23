@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:151312,100:F46C38&text=Arjun%20Vashishtha&fontColor=ffffff&fontSize=46&fontAlignY=42&desc=Data%20Analyst%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20Statistics%20%C2%B7%20ML&descSize=17&descAlignY=60" width="100%" alt="Arjun Vashishtha — Data Analyst" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=21&pause=1200&color=F46C38&center=true&vCenter=true&width=680&lines=I+turn+messy%2C+real-world+data+into+decisions.;Python+and+pandas+for+the+analysis%2C+SciPy+for+the+rigour.;Findings+that+survive+a+hypothesis+test%2C+not+just+a+chart." alt="What I do" />
-
-<br><br>
+<br>
 
 <a href="https://arjunv.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-arjunv.is--a.dev-F46C38?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
 <a href="https://arjunv.is-a.dev/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-151312?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
@@ -15,15 +13,17 @@
 
 <br>
 
-## 🧭 About
+## About
 
-Final-year **B.Tech CSE @ VIT Bhopal**, working as **Website Management & Marketing Lead at AIOrders × Foodswipe** — where I track campaign performance across Meta and Google Ads and turn the numbers into targeting decisions.
+Final-year B.Tech CSE at VIT Bhopal, graduating 2026.
 
-I like the unglamorous half of analytics: auditing a messy export before touching it, writing down the rubric behind every threshold, and checking whether a pattern actually holds up statistically before anyone builds a strategy on it.
+Website Management & Marketing Lead at AIOrders × Foodswipe — I track paid and organic campaign performance across Meta and Google Ads and report on it.
+
+Open to Data Analyst and AI/ML roles.
 
 <br>
 
-## 🛠️ Toolkit
+## Toolkit
 
 <div align="center">
 
@@ -43,46 +43,46 @@ I like the unglamorous half of analytics: auditing a messy export before touchin
 
 <br>
 
-## 📊 Selected Work
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Financial Risk Analysis
-Morgan Stanley transactional dataset — **800 transactions, 189 accounts, 18 months**, analysed end to end.
+### Financial Risk Analysis
+Morgan Stanley transactional dataset — 800 transactions, 189 accounts, 18 months.
 
-- Cleaned with a full audit log; caught 603 duplicate IDs and a structural defect in the source system
-- Behavioural risk scorecard narrowed review to **8 High/Critical accounts**
-- Hypothesis tests proved activity ≠ account value (*p* = 0.13) while volatility flags overdrafts (*p* = 0.00003)
-- PDF + deck generated straight from the analysis outputs, so reporting can't drift
+- Data cleaning with an audit log; found 603 duplicate transaction IDs and accounts shared across customers
+- Behavioural risk scorecard — 8 accounts in the High/Critical tier, 187 flagged dormant
+- Hypothesis tests: transaction activity vs. balance *p* = 0.13; balance volatility vs. overdraft *p* = 0.00003
+- PDF report and PPTX deck generated from the analysis outputs
 
 `pandas` `NumPy` `SciPy` `Matplotlib` `ReportLab`
 
-<a href="https://arjunv.is-a.dev">See the full breakdown →</a>
+<a href="https://arjunv.is-a.dev">Details →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Network Anomaly Detection
-Real-time statistical detection of DDoS traffic on a software-defined network, with automatic mitigation.
+### Network Anomaly Detection
+Statistical DDoS detection on a software-defined network, with automatic mitigation.
 
-- Dual-strategy detection: volumetric rate threshold + destination fan-out anomaly
-- Auto-installs drop rules with timed auto-unblock
-- 17-endpoint REST API and a live D3.js traffic dashboard
-- **66-test** suite on a 3-version Python CI matrix
+- Two detectors: volumetric rate threshold and destination fan-out
+- Installs drop rules automatically, with timed auto-unblock
+- 17-endpoint REST API and a D3.js traffic dashboard
+- 66 tests on a 3-version Python CI matrix
 
 `Python` `Ryu` `Flask` `D3.js` `pytest`
 
-<a href="https://github.com/arjundroid12/sdn-project">View repo →</a>
+<a href="https://github.com/arjundroid12/sdn-project">Repo →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Quirk
-AI content-analysis toolkit for creators, built on a dual text + vision LLM pipeline.
+### Quirk
+AI content-analysis toolkit built on a text + vision LLM pipeline.
 
 - Vision model scores thumbnails on composition, emotion and predicted CTR
 - 7 tools across 14 API routes, 8-model schema
@@ -95,12 +95,12 @@ AI content-analysis toolkit for creators, built on a dual text + vision LLM pipe
 </td>
 <td width="50%" valign="top">
 
-### 🔍 SEO Keyword Tracker
-Keyword and traffic analytics for restaurant sites, pulling live data from Google.
+### SEO Keyword Tracker
+Keyword and traffic analytics for restaurant sites.
 
-- Search Console + Analytics integration over OAuth 2.0
-- Autocomplete and PageSpeed signals folded into one view
-- Built for a real client workflow, not a demo dataset
+- Google Search Console and Analytics integration over OAuth 2.0
+- Autocomplete and PageSpeed signals in one view
+- Built for a client workflow at AIOrders
 
 `Next.js` `TypeScript` `Google APIs`
 
@@ -110,19 +110,7 @@ Keyword and traffic analytics for restaurant sites, pulling live data from Googl
 </tr>
 </table>
 
-<br>
-
-## 🌱 Currently
-
-- Final-year B.Tech CSE, graduating **2026**
-- Sharpening SQL and DSA through placement season
-- Open to **Data Analyst / AI-ML** roles
-
-<br>
-
 <div align="center">
-
-<a href="https://arjunv.is-a.dev"><img src="https://img.shields.io/badge/See%20the%20full%20portfolio-arjunv.is--a.dev-F46C38?style=for-the-badge" alt="Portfolio" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:F46C38,100:151312&section=footer" width="100%" alt="" />
 
